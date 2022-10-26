@@ -1,0 +1,3 @@
+version=4
+https://download.gnome.org/sources/libsigc++/(2\.1[02468])/ \
+	libsigc%2B%2B@ANY_VERSION@@ARCHIVE_EXT@
